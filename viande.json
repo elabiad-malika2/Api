@@ -1,0 +1,31 @@
+{
+    "products": [
+                {
+                    "id": 8,
+                    "name": "Steak de Boeuf",
+                    "price": 150,
+                    "unit": "Kg",
+                    "stock": 50,
+                    "description": "Steak de boeuf tendre",
+                    "categories": "Viande"
+                },
+                {
+                    "id": 9,
+                    "name": "Poulet Entier",
+                    "price": 100,
+                    "unit": "Kg",
+                    "stock": 70,
+                    "description": "Poulet fermier entier",
+                    "categories": "Viande"
+                },
+                {
+                    "id": 10,
+                    "name": "Côte de Porc",
+                    "price": 120,
+                    "unit": "Kg",
+                    "stock": 40,
+                    "description": "Côte de porc fraîche",
+                    "categories": "Viande"
+                }
+    ]
+}
