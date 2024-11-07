@@ -8,7 +8,7 @@ app.listen(PORT,()=>{
 });
 
 
-app.get('/api/users', (req, res) => {
+app.get('/api/products', (req, res) => {
     fs.readFile('./data.json',  (err, data) => {
         if (err) {
             console.error("Erreur lors de la lecture du fichier JSON", err);
