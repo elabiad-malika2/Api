@@ -29,8 +29,7 @@
                     "stock": 150,
                     "description": "Fromage blanc crémeux",
                     "categories": "Produits Laitiers"
-                }
-            ,
+                },
                 {
                     "id": 4,
                     "name": "Tomates",
@@ -66,8 +65,7 @@
                     "stock": 60,
                     "description": "Bananes mûres et sucrées",
                     "categories": "Légumes et Fruits"
-                }
-            ,
+                },
                 {
                     "id": 8,
                     "name": "Steak de Boeuf",
@@ -94,8 +92,7 @@
                     "stock": 40,
                     "description": "Côte de porc fraîche",
                     "categories": "Viande"
-                }
-           ,
+                },
                 {
                     "id": 11,
                     "name": "Jambon Blanc",
@@ -122,9 +119,7 @@
                     "stock": 70,
                     "description": "Chorizo doux et savoureux",
                     "categories": "Charcuterie"
-                }
-            ,
-        
+                },
                 {
                     "id": 14,
                     "name": "Liquide Vaisselle",
