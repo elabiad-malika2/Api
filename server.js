@@ -2,6 +2,10 @@ const express = require("express");
 const app = express();
 const fs = require('fs');
 const PORT =3000;
+const cors = require("cors");
+app.use(cors({
+    origin: '*' 
+}));
 
 // Laitiers
 app.get('/api/data', (req, res) => {

@@ -8,7 +8,8 @@
                     "unit": "Litre",
                     "stock": 100,
                     "description": "Lait demi-écrémé 1L",
-                    "categories": "Produits Laitiers"
+                    "categories": "Produits Laitiers",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808422/CHARCUTERIE10_m0vrbx.png"
                 },
                 {
                     "id": 2,
@@ -18,7 +19,9 @@
                     "unit": "Unité",
                     "stock": 200,
                     "description": "Yaourt nature sans sucre",
-                    "categories": "Produits Laitiers"
+                    "categories": "Produits Laitiers",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808422/CHARCUTERIE10_m0vrbx.png"
+
                 },
                 {
                     "id": 3,
@@ -28,7 +31,8 @@
                     "unit": "Pot de 500g",
                     "stock": 150,
                     "description": "Fromage blanc crémeux",
-                    "categories": "Produits Laitiers"
+                    "categories": "Produits Laitiers",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808422/CHARCUTERIE10_m0vrbx.png"
                 },
                 {
                     "id": 4,
@@ -37,7 +41,8 @@
                     "unit": "Kg",
                     "stock": 80,
                     "description": "Tomates fraîches et juteuses",
-                    "categories": "Légumes et Fruits"
+                    "categories": "Légumes et Fruits",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808422/CHARCUTERIE10_m0vrbx.png"
                 },
                 {
                     "id": 5,
@@ -46,7 +51,8 @@
                     "unit": "Kg",
                     "stock": 120,
                     "description": "Pommes de terre de saison",
-                    "categories": "Légumes et Fruits"
+                    "categories": "Légumes et Fruits",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808422/CHARCUTERIE10_m0vrbx.png"
                 },
                 {
                     "id": 6,
@@ -55,7 +61,8 @@
                     "unit": "Kg",
                     "stock": 90,
                     "description": "Pommes rouges croquantes",
-                    "categories": "Légumes et Fruits"
+                    "categories": "Légumes et Fruits",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808422/CHARCUTERIE10_m0vrbx.png"
                 },
                 {
                     "id": 7,
@@ -64,7 +71,8 @@
                     "unit": "Kg",
                     "stock": 60,
                     "description": "Bananes mûres et sucrées",
-                    "categories": "Légumes et Fruits"
+                    "categories": "Légumes et Fruits",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808422/CHARCUTERIE10_m0vrbx.png"
                 },
                 {
                     "id": 8,
@@ -73,7 +81,8 @@
                     "unit": "Kg",
                     "stock": 50,
                     "description": "Steak de boeuf tendre",
-                    "categories": "Viande"
+                    "categories": "Viande",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808422/CHARCUTERIE10_m0vrbx.png"
                 },
                 {
                     "id": 9,
@@ -82,7 +91,8 @@
                     "unit": "Kg",
                     "stock": 70,
                     "description": "Poulet fermier entier",
-                    "categories": "Viande"
+                    "categories": "Viande",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808422/CHARCUTERIE10_m0vrbx.png"
                 },
                 {
                     "id": 10,
@@ -91,7 +101,8 @@
                     "unit": "Kg",
                     "stock": 40,
                     "description": "Côte de porc fraîche",
-                    "categories": "Viande"
+                    "categories": "Viande",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808422/CHARCUTERIE10_m0vrbx.png"
                 },
                 {
                     "id": 11,
@@ -100,7 +111,8 @@
                     "unit": "Tranche de 100g",
                     "stock": 100,
                     "description": "Jambon blanc sans sel ajouté",
-                    "categories": "Charcuterie"
+                    "categories": "Charcuterie",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808422/CHARCUTERIE10_m0vrbx.png"
                 },
                 {
                     "id": 12,
@@ -109,7 +121,8 @@
                     "unit": "Tranche de 100g",
                     "stock": 80,
                     "description": "Salami au goût intense",
-                    "categories": "Charcuterie"
+                    "categories": "Charcuterie",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808427/CHARCUTERIE1_ske4ju.jpg"
                 },
                 {
                     "id": 13,
@@ -118,7 +131,8 @@
                     "unit": "Tranche de 100g",
                     "stock": 70,
                     "description": "Chorizo doux et savoureux",
-                    "categories": "Charcuterie"
+                    "categories": "Charcuterie",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808426/CHARCUTERIE6_ckxmmz.jpg"
                 },
                 {
                     "id": 14,
@@ -128,7 +142,8 @@
                     "unit": "Bouteille de 500ml",
                     "stock": 150,
                     "description": "Liquide vaisselle concentré",
-                    "categories": "Produits de Ménage"
+                    "categories": "Produits de Ménage",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808422/CHARCUTERIE10_m0vrbx.png"
                 },
                 {
                     "id": 15,
@@ -138,7 +153,8 @@
                     "unit": "Pain de 200g",
                     "stock": 200,
                     "description": "Savon naturel de Marseille",
-                    "categories": "Produits de Ménage"
+                    "categories": "Produits de Ménage",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808422/CHARCUTERIE10_m0vrbx.png"
                 },
                 {
                     "id": 16,
@@ -147,7 +163,8 @@
                     "unit": "Unité",
                     "stock": 300,
                     "description": "Éponge double face",
-                    "categories": "Produits de Ménage"
+                    "categories": "Produits de Ménage",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808422/CHARCUTERIE10_m0vrbx.png"
                 },
                 {
                     "id": 17,
@@ -157,7 +174,8 @@
                     "unit": "Bouteille de 750ml",
                     "stock": 100,
                     "description": "Nettoyant multi-surfaces à action rapide",
-                    "categories": "Produits de Ménage"
+                    "categories": "Produits de Ménage",
+                    "image":"https://res.cloudinary.com/dashccxm0/image/upload/v1731808422/CHARCUTERIE10_m0vrbx.png"
                 }
     ]
 }
